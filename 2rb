@@ -1,0 +1,52 @@
+#Multiple Inheritance.
+ 
+#     # A module is a grouping of class variables, constants, and methods
+# module B
+#     def ram
+#        p "this is B"
+#     end
+#   end
+#   module C
+#     def name
+#        p "this is C"
+#     end
+# end
+#     module D
+#         def hello
+        
+#             p "this is D"
+#         end 
+#     end 
+
+
+    
+#   class A
+#      include B
+#      include C
+#      include D
+#      A.new.ram
+#      A.new.name
+#      A.new.hello
+
+#    end
+ 
+
+#    module Gaurav
+#     class << self
+#       attr_accessor  :add
+#     end
+#     self.add = 2 + 8
+#   end
+  
+#   puts Gaurav.add
+
+#   class Gaurav
+
+n = 1 
+while  n <=5
+  puts  = "*" 
+   n=+1
+
+# end 
+#   obj = Gaurav.new  
+ 
