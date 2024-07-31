@@ -56,7 +56,9 @@ end
 
 # duck = Duck.new
 
-# puts duck.fly     
+# puts duck.fly   
+
+
 # puts duck.swim    
 # puts duck.quack   
 
