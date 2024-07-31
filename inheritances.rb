@@ -66,5 +66,5 @@ class Animal
   
   dog = Dog.new
   puts dog.speak
-  puts dog.bark  
-  
+  puts dog.barks 
+  ## gaurva

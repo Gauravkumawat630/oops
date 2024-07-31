@@ -18,7 +18,6 @@ end
         end 
     end 
 
-
     
   class A
      include B
